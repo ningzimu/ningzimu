@@ -34,7 +34,7 @@
 
 ### Currently Exploring
 
-- AI agent workflows and multi-agent orchestration (LangGraph / OpenClaw Skills)
+- AI agent workflows and multi-agent orchestration
 - Reinventing personal productivity with agents: notes, news curation, content creation — end-to-end automation
 - Context Engineering — making AI truly understand your context, not just answer questions
 - Long-term memory for AI agents — enabling persistent, evolving knowledge across sessions
