@@ -138,7 +138,6 @@ Claude Code 本地观测工具，用来查看 API 流量、日志、提示词、
 ### 如果你也在探索 AI Agent、个人知识系统和开发者自动化，欢迎交流
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ningzimu)
-[![小红书](https://img.shields.io/badge/-%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/9475793753)
 [![Email](https://img.shields.io/badge/-Email-334155?style=for-the-badge)](mailto:619883006@qq.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)
