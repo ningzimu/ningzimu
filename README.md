@@ -101,7 +101,7 @@ Claude Code 本地观测工具，用来查看 API 流量、日志、提示词、
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%">
 <img width="100%" src="https://github-readme-stats-iota-rosy-29.vercel.app/api?username=ningzimu&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=percentile&locale=cn&title_color=58A6FF&text_color=334155&icon_color=8B5CF6" />
@@ -112,10 +112,10 @@ Claude Code 本地观测工具，用来查看 API 流量、日志、提示词、
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats-iota-rosy-29.vercel.app/api/top-langs/?username=ningzimu&layout=compact&theme=transparent&hide_border=true&langs_count=8&locale=cn&title_color=58A6FF&text_color=334155" />
+<img width="100%" src="https://github-readme-stats-iota-rosy-29.vercel.app/api/top-langs/?username=ningzimu&layout=compact&theme=transparent&hide_border=true&langs_count=8&card_width=420&locale=cn&title_color=58A6FF&text_color=334155" />
 </td>
 <td width="50%">
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ningzimu&theme=flat&no-frame=true&column=4&row=2&margin-w=8" />
