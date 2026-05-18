@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=%E6%9E%84%E5%BB%BA+AI+Agent+%E5%B7%A5%E4%BD%9C%E6%B5%81;%E6%8E%A2%E7%B4%A2+OpenClaw+%E4%B8%8E+Claude+Code+%E7%94%9F%E6%80%81;%E7%94%A8+Obsidian+%E6%B2%89%E6%B7%80%E9%95%BF%E6%9C%9F%E8%AE%B0%E5%BF%86;%E6%8A%8A%E7%9F%A5%E8%AF%86%E3%80%81%E5%B7%A5%E5%85%B7%E5%92%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%B2%E8%B5%B7%E6%9D%A5)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/ningzimu?style=flat-square&logo=github&label=%E5%85%B3%E6%B3%A8%E8%80%85&color=blue)](https://github.com/ningzimu?tab=followers)
-[![Stars](https://img.shields.io/github/stars/ningzimu?affiliations=OWNER&style=flat-square&logo=github&label=%E6%98%9F%E6%A0%87&color=yellow)](https://github.com/ningzimu?tab=repositories)
-![Profile Views](https://komarev.com/ghpvc/?username=ningzimu&style=flat-square&label=%E8%AE%BF%E9%97%AE&color=blueviolet)
+[![Followers](https://img.shields.io/github/followers/ningzimu?style=flat-square&logo=github&label=Followers&color=blue)](https://github.com/ningzimu?tab=followers)
+[![Stars](https://img.shields.io/github/stars/ningzimu?affiliations=OWNER&style=flat-square&logo=github&label=Stars&color=yellow)](https://github.com/ningzimu?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=ningzimu&style=flat-square&label=Profile%20Views&color=blueviolet)
 
 </div>
 
