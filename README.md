@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20I'm%20ningzimu&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Agent%20Explorer%20%C2%B7%20Software%20Engineer%20%C2%B7%20Knowledge%20Builder&descSize=18&descAlignY=58&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=%E6%9E%84%E5%BB%BA+AI+Agent+%E5%B7%A5%E4%BD%9C%E6%B5%81;%E6%8E%A2%E7%B4%A2+OpenClaw+%E4%B8%8E+Claude+Code+%E7%94%9F%E6%80%81;%E7%94%A8+Obsidian+%E6%B2%89%E6%B7%80%E9%95%BF%E6%9C%9F%E8%AE%B0%E5%BF%86;%E6%8A%8A%E7%9F%A5%E8%AF%86%E3%80%81%E5%B7%A5%E5%85%B7%E5%92%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%B2%E8%B5%B7%E6%9D%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=%E4%BD%86%E8%A1%8C%E5%A5%BD%E4%BA%8B%EF%BC%8C%E8%8E%AB%E9%97%AE%E5%89%8D%E7%A8%8B;%E6%9E%84%E5%BB%BA+AI+Agent+%E5%B7%A5%E4%BD%9C%E6%B5%81;%E6%8A%8A%E7%9F%A5%E8%AF%86%E3%80%81%E5%B7%A5%E5%85%B7%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%B2%E8%B5%B7%E6%9D%A5)](https://git.io/typing-svg)
 
 [![Followers](https://img.shields.io/github/followers/ningzimu?style=flat-square&logo=github&label=Followers&color=blue)](https://github.com/ningzimu?tab=followers)
 [![Stars](https://img.shields.io/github/stars/ningzimu?affiliations=OWNER&style=flat-square&logo=github&label=Stars&color=yellow)](https://github.com/ningzimu?tab=repositories)
@@ -14,12 +14,12 @@
 
 ## 关于我
 
-北邮计算机硕士，长期关注大数据、算法工程与 AI Agent 系统的真实落地。
+我在探索 AI Agent 时代的个人工作方式：如何把上下文、工具、知识库和自动化组织成可验证、可复用的工作流。
 
-- 正在做 - AI Agent 工作流、Skills 工程化、多 agent 协作与工具链整合
-- 正在玩 - OpenClaw、Claude Code、Codex、Obsidian、Context Engineering
-- 正在写 - 把笔记、信息流、内容创作和自动化输出串成稳定工作流
-- 想聊聊 - AI Agent、长期记忆、个人知识系统、开发者工具和自动化
+- 正在做 - AI Agent 工作流、Skills 工程化、多 agent 协作与 Agent 编排
+- 正在玩 - OpenClaw、Hermes Agent、Claude Code、Codex、Obsidian、Harness Engineering
+- 正在沉淀 - 把资料、笔记、调研和实践编译成可复用的个人知识系统
+- 想聊聊 - AI Agent、长期记忆、开发者工具、个人自动化和 LLM 代码审查
 
 ---
 
@@ -61,34 +61,12 @@ Claude Code 本地观测工具，用来查看 API 流量、日志、提示词、
 </td>
 <td width="50%" valign="top">
 
-### ⭐ [codex-gpt-image](https://github.com/ningzimu/codex-gpt-image)
-[![Stars](https://img.shields.io/github/stars/ningzimu/codex-gpt-image?style=social)](https://github.com/ningzimu/codex-gpt-image)
-
-通过 Codex OAuth 使用 gpt-image-2 的 Skill，不需要额外配置 OPENAI_API_KEY。
-
-`Python` `gpt-image-2` `Skill`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [FirstData](https://github.com/ningzimu/FirstData)
-[![Stars](https://img.shields.io/github/stars/ningzimu/FirstData?style=social)](https://github.com/ningzimu/FirstData)
+### [FirstData](https://github.com/MLT-OSS/FirstData)
+[![Stars](https://img.shields.io/github/stars/MLT-OSS/FirstData?style=social)](https://github.com/MLT-OSS/FirstData)
 
 面向权威数据源的一站式知识库，整理政府、机构与开放数据入口，服务数据检索和自动化采集。
 
 `Python` `Open Data` `Knowledge Base`
-
-</td>
-<td width="50%" valign="top">
-
-### [rule_scripts](https://github.com/ningzimu/rule_scripts)
-[![Stars](https://img.shields.io/github/stars/ningzimu/rule_scripts?style=social)](https://github.com/ningzimu/rule_scripts)
-
-代理分流规则配置与维护脚本，服务于日常网络规则管理。
-
-`Rules` `Proxy` `Workflow`
 
 </td>
 </tr>
@@ -96,20 +74,23 @@ Claude Code 本地观测工具，用来查看 API 流量、日志、提示词、
 
 ---
 
-## 技术栈
+## 技术与工具
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/-OpenClaw-2563EB?style=for-the-badge&logo=github&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/-Hermes%20Agent-0F766E?style=for-the-badge&logo=apache&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/-OpenClaw-2563EB?style=for-the-badge&logo=github&logoColor=white)
+
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-6D28D9?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Agent Skills](https://img.shields.io/badge/-Agent%20Skills-0891B2?style=for-the-badge&logo=claude&logoColor=white)
+![Harness Engineering](https://img.shields.io/badge/-Harness%20Engineering-475569?style=for-the-badge&logo=terminal&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
 </div>
@@ -120,11 +101,27 @@ Claude Code 本地观测工具，用来查看 API 流量、日志、提示词、
 
 <div align="center">
 
-<img src="https://github-readme-stats-iota-rosy-29.vercel.app/api?username=ningzimu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=percentile&locale=cn" height="180"/>
-<img src="https://streak-stats.demolab.com?user=ningzimu&theme=tokyonight&hide_border=true&locale=zh_Hans" height="180"/>
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats-iota-rosy-29.vercel.app/api?username=ningzimu&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=percentile&locale=cn&title_color=58A6FF&text_color=334155&icon_color=8B5CF6" />
+</td>
+<td width="50%">
+<img width="100%" src="https://streak-stats.demolab.com?user=ningzimu&theme=transparent&hide_border=true&locale=zh_Hans&ring=58A6FF&fire=8B5CF6&currStreakLabel=0F766E&sideLabels=334155&dates=64748B&currStreakNum=8B5CF6&sideNums=58A6FF" />
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats-iota-rosy-29.vercel.app/api/top-langs/?username=ningzimu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=480&locale=cn" height="160"/>
-<img src="https://github-profile-trophy.vercel.app/?username=ningzimu&theme=tokyonight&no-frame=true&column=4&row=2&margin-w=8" height="160"/>
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats-iota-rosy-29.vercel.app/api/top-langs/?username=ningzimu&layout=compact&theme=transparent&hide_border=true&langs_count=8&locale=cn&title_color=58A6FF&text_color=334155" />
+</td>
+<td width="50%">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ningzimu&theme=flat&no-frame=true&column=4&row=2&margin-w=8" />
+</td>
+</tr>
+</table>
 
 </div>
 
