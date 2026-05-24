@@ -14,9 +14,7 @@
 
 ## 关于我
 
-我在探索 AI Agent 时代的个人工作方式：如何把上下文、工具、知识库和自动化组织成可验证、可复用的工作流。
-
-公众号：群智问津。记录 AI Agent、群体智能与人机协作的前沿探索。在智能涌现的时代，向未来问路，与群智同行。
+我在探索 AI Agent 时代的个人工作方式：如何把上下文、工具、知识库和自动化组织成可验证、可复用的工作流。记录 AI Agent、群体智能与人机协作的前沿探索。在智能涌现的时代，向未来问路，与群智同行。
 
 - 正在做 - AI Agent 工作流、Skills 工程化、多 agent 协作与 Agent 编排
 - 正在玩 - OpenClaw、Hermes Agent、Claude Code、Codex、Obsidian、Harness Engineering
@@ -69,6 +67,28 @@ Claude Code 本地观测工具，用来查看 API 流量、日志、提示词、
 面向权威数据源的一站式知识库，整理政府、机构与开放数据入口，服务数据检索和自动化采集。
 
 `Python` `Open Data` `Knowledge Base`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⭐ [awesome-ai-ppt](https://github.com/ningzimu/awesome-ai-ppt)
+[![Stars](https://img.shields.io/github/stars/ningzimu/awesome-ai-ppt?style=social)](https://github.com/ningzimu/awesome-ai-ppt)
+
+AI PPT、PowerPoint 自动化、PPTX 编辑和幻灯片工作流工具精选清单。
+
+`Python` `Awesome List` `Presentation`
+
+</td>
+<td width="50%" valign="top">
+
+### ⭐ [image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill)
+[![Stars](https://img.shields.io/github/stars/ningzimu/image-to-editable-ppt-skill?style=social)](https://github.com/ningzimu/image-to-editable-ppt-skill)
+
+面向 Codex 的可编辑化 PPT Skill，把幻灯片图片、PDF 和图片版 PPTX 转成可编辑 PowerPoint。
+
+`Python` `Codex Skill` `PPTX`
 
 </td>
 </tr>
@@ -140,6 +160,7 @@ Claude Code 本地观测工具，用来查看 API 流量、日志、提示词、
 ### 如果你也在探索 AI Agent、个人知识系统和开发者自动化，欢迎交流
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ningzimu)
+![微信公众号：群智问津](https://img.shields.io/static/v1?style=for-the-badge&label=%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7&message=%E7%BE%A4%E6%99%BA%E9%97%AE%E6%B4%A5&color=07C160&logo=wechat&logoColor=white)
 [![小红书](https://img.shields.io/badge/-%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/608d5243000000000101d122)
 [![Email](https://img.shields.io/badge/-Email-334155?style=for-the-badge)](mailto:619883006@qq.com)
 
