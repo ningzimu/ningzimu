@@ -16,6 +16,8 @@
 
 我在探索 AI Agent 时代的个人工作方式：如何把上下文、工具、知识库和自动化组织成可验证、可复用的工作流。
 
+公众号：群智问津。记录 AI Agent、群体智能与人机协作的前沿探索。在智能涌现的时代，向未来问路，与群智同行。
+
 - 正在做 - AI Agent 工作流、Skills 工程化、多 agent 协作与 Agent 编排
 - 正在玩 - OpenClaw、Hermes Agent、Claude Code、Codex、Obsidian、Harness Engineering
 - 正在沉淀 - 把资料、笔记、调研和实践编译成可复用的个人知识系统
