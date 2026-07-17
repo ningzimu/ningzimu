@@ -17,9 +17,9 @@
 我在探索 AI Agent 时代的个人工作方式：如何把上下文、工具、知识库和自动化组织成可验证、可复用的工作流。记录 AI Agent、群体智能与人机协作的前沿探索。在智能涌现的时代，向未来问路，与群智同行。
 
 - 正在做 - AI Agent 工作流、Skills 工程化、多 agent 协作与 Agent 编排
-- 正在玩 - OpenClaw、Hermes Agent、Claude Code、Codex、Obsidian、Harness Engineering
+- 正在玩 - OpenClaw、Hermes Agent、Claude Code、Codex、Obsidian、Harness Engineering、Loop Engineering
 - 正在沉淀 - 把资料、笔记、调研和实践编译成可复用的个人知识系统
-- 想聊聊 - AI Agent、长期记忆、开发者工具、个人自动化和 LLM 代码审查
+- 想聊聊 - AI Agent 工程、长期记忆、个人知识系统，以及人如何与 Agent 更好地协作
 
 ---
 
@@ -61,18 +61,6 @@ Claude Code 本地观测工具，用来查看 API 流量、日志、提示词、
 </td>
 <td width="50%" valign="top">
 
-### [FirstData](https://github.com/MLT-OSS/FirstData)
-[![Stars](https://img.shields.io/github/stars/MLT-OSS/FirstData?style=social)](https://github.com/MLT-OSS/FirstData)
-
-面向权威数据源的一站式知识库，整理政府、机构与开放数据入口，服务数据检索和自动化采集。
-
-`Python` `Open Data` `Knowledge Base`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### ⭐ [awesome-ai-ppt](https://github.com/ningzimu/awesome-ai-ppt)
 [![Stars](https://img.shields.io/github/stars/ningzimu/awesome-ai-ppt?style=social)](https://github.com/ningzimu/awesome-ai-ppt)
 
@@ -81,6 +69,8 @@ AI PPT、PowerPoint 自动化、PPTX 编辑和幻灯片工作流工具精选清�
 `Python` `Awesome List` `Presentation`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ⭐ [image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill)
@@ -93,12 +83,6 @@ AI PPT、PowerPoint 自动化、PPTX 编辑和幻灯片工作流工具精选清�
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ningzimu/codex-ppt-skill,ningzimu/image-to-editable-ppt-skill,ningzimu/claude-code-lens,ningzimu/awesome-ai-ppt&type=date)](https://www.star-history.com/?repos=ningzimu%2Fcodex-ppt-skill%2Cningzimu%2Fimage-to-editable-ppt-skill%2Cningzimu%2Fclaude-code-lens%2Cningzimu%2Fawesome-ai-ppt&type=date&logscale=&legend=top-left)
-
-</div>
 
 ---
 
