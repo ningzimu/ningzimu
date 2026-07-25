@@ -81,6 +81,16 @@ AI PPT、PowerPoint 自动化、PPTX 编辑和幻灯片工作流工具精选清�
 `Python` `Codex Skill` `PPTX`
 
 </td>
+<td width="50%" valign="top">
+
+### ⭐ [awesome-skills](https://github.com/ningzimu/awesome-skills)
+[![Stars](https://img.shields.io/github/stars/ningzimu/awesome-skills?style=social)](https://github.com/ningzimu/awesome-skills)
+
+精选实用的 AI Agent Skills 与工作流，持续整理为可直接使用的清单。
+
+`Awesome List` `Agent Skills` `Workflows`
+
+</td>
 </tr>
 </table>
 
