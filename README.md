@@ -129,7 +129,7 @@ AI PPT、PowerPoint 自动化、PPTX 编辑和幻灯片工作流工具精选清�
 <img width="100%" src="https://github-readme-stats-iota-rosy-29.vercel.app/api?username=ningzimu&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=percentile&locale=cn&title_color=58A6FF&text_color=334155&icon_color=8B5CF6" />
 </td>
 <td width="50%">
-<img width="100%" src="https://streak-stats.demolab.com?user=ningzimu&theme=transparent&hide_border=true&locale=zh_Hans&ring=58A6FF&fire=8B5CF6&currStreakLabel=0F766E&sideLabels=334155&dates=64748B&currStreakNum=8B5CF6&sideNums=58A6FF" />
+<img width="100%" src="https://ningzimu-streak-stats.vercel.app?user=ningzimu&theme=transparent&hide_border=true&locale=zh_Hans&ring=58A6FF&fire=8B5CF6&currStreakLabel=0F766E&sideLabels=334155&dates=64748B&currStreakNum=8B5CF6&sideNums=58A6FF" />
 </td>
 </tr>
 </table>
@@ -140,7 +140,7 @@ AI PPT、PowerPoint 自动化、PPTX 编辑和幻灯片工作流工具精选清�
 <img width="100%" src="https://github-readme-stats-iota-rosy-29.vercel.app/api/top-langs/?username=ningzimu&layout=compact&theme=transparent&hide_border=true&langs_count=8&card_width=420&locale=cn&title_color=58A6FF&text_color=334155" />
 </td>
 <td width="50%">
-<img width="100%" src="https://trophy.ryglcloud.net/?username=ningzimu&theme=flat&no-frame=true&column=4&row=2&margin-w=8" />
+<img width="100%" src="https://ningzimu-profile-trophy.vercel.app/?username=ningzimu&theme=flat&no-frame=true&column=4&row=2&margin-w=8" />
 </td>
 </tr>
 </table>
