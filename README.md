@@ -14,12 +14,12 @@
 
 ## 关于我
 
-我在探索 AI Agent 时代的个人工作方式：如何把上下文、工具、知识库和自动化组织成可验证、可复用的工作流。记录 AI Agent、群体智能与人机协作的前沿探索。在智能涌现的时代，向未来问路，与群智同行。
+我在探索 AI Agent 时代的个人工作方式：如何把上下文、工具、知识库和自动化组织成可验证、可复用的工作流。从 AI 演示文稿生成与可编辑化、短剧视频创作，到 iOS / macOS 应用开发，尝试让 Agent 参与从想法到交付的完整过程，也把实践沉淀为 Skills、开源工具与长期记忆。记录 AI Agent、群体智能与人机协作的前沿探索。在智能涌现的时代，向未来问路，与群智同行。
 
-- 正在做 - AI Agent 工作流、Skills 工程化、多 agent 协作与 Agent 编排
-- 正在玩 - OpenClaw、Hermes Agent、Claude Code、Codex、Obsidian、Harness Engineering、Loop Engineering
-- 正在沉淀 - 把资料、笔记、调研和实践编译成可复用的个人知识系统
-- 想聊聊 - AI Agent 工程、长期记忆、个人知识系统，以及人如何与 Agent 更好地协作
+- 正在做 — AI PPT 生成与可编辑化、短剧内容生产、iOS / macOS 应用，以及贯穿其中的多 Agent 协作与交付自动化
+- 正在玩 — Codex、Claude Code、OpenCode、OpenClaw、Hermes Agent、SwiftUI、Harness Engineering、Loop Engineering
+- 正在沉淀 — 把工作流程封装成可复用的 Skills，用 Obsidian 与 Nowledge Mem 连接知识、项目经验和长期记忆
+- 想聊聊 — AI Agent 工程、内容生产自动化、个人知识系统，以及人如何与 Agent 一起把想法做成作品
 
 ---
 
@@ -51,12 +51,12 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⭐ [claude-code-lens](https://github.com/ningzimu/claude-code-lens)
-[![Stars](https://img.shields.io/github/stars/ningzimu/claude-code-lens?style=social)](https://github.com/ningzimu/claude-code-lens)
+### ⭐ [codex-celebrate](https://github.com/ningzimu/codex-celebrate)
+[![Stars](https://img.shields.io/github/stars/ningzimu/codex-celebrate?style=social)](https://github.com/ningzimu/codex-celebrate)
 
-Claude Code 本地观测工具，用来查看 API 流量、日志、提示词、工具调用和 token 使用情况。
+原生 macOS 彩带与音效交互，在 Codex、Claude Code、OpenCode 完成响应时触发庆祝效果。
 
-`JavaScript` `Claude Code` `Observability`
+`Swift` `macOS` `Coding Agent` `Developer Tools`
 
 </td>
 <td width="50%" valign="top">
@@ -101,18 +101,18 @@ AI PPT、PowerPoint 自动化、PPTX 编辑和幻灯片工作流工具精选清�
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![OpenClaw](https://img.shields.io/badge/-OpenClaw-2563EB?style=for-the-badge&logo=github&logoColor=white)
-![Hermes Agent](https://img.shields.io/badge/-Hermes%20Agent-0F766E?style=for-the-badge&logo=apache&logoColor=white)
-![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenCode](https://img.shields.io/badge/-OpenCode-2563EB?style=for-the-badge&logo=terminal&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/-OpenClaw-0ea5e9?style=for-the-badge&logo=github&logoColor=white)
 
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-6D28D9?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/-Hermes%20Agent-0F766E?style=for-the-badge&logo=apache&logoColor=white)
 ![Agent Skills](https://img.shields.io/badge/-Agent%20Skills-0891B2?style=for-the-badge&logo=claude&logoColor=white)
-![Harness Engineering](https://img.shields.io/badge/-Harness%20Engineering-475569?style=for-the-badge&logo=terminal&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-6D28D9?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Harness Engineering](https://img.shields.io/badge/-Harness%20Engineering-475569?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
 </div>
