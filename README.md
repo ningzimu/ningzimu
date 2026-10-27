@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20I'm%20ningzimu&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Agent%20Explorer%20%C2%B7%20Software%20Engineer%20%C2%B7%20Knowledge%20Builder&descSize=18&descAlignY=58&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=%E4%BD%86%E8%A1%8C%E5%A5%BD%E4%BA%8B%EF%BC%8C%E8%8E%AB%E9%97%AE%E5%89%8D%E7%A8%8B;%E6%9E%84%E5%BB%BA+AI+Agent+%E5%B7%A5%E4%BD%9C%E6%B5%81;%E6%8A%8A%E7%9F%A5%E8%AF%86%E3%80%81%E5%B7%A5%E5%85%B7%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%B2%E8%B5%B7%E6%9D%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Do+good+work,+and+let+the+future+unfold;Building+AI+Agent+workflows;Connecting+knowledge,+tools,+and+automation)](https://git.io/typing-svg)
 
 [![Followers](https://img.shields.io/github/followers/ningzimu?style=flat-square&logo=github&label=Followers&color=blue)](https://github.com/ningzimu?tab=followers)
 [![Stars](https://img.shields.io/github/stars/ningzimu?affiliations=OWNER&style=flat-square&logo=github&label=Stars&color=yellow)](https://github.com/ningzimu?tab=repositories)
@@ -12,39 +12,61 @@
 
 ---
 
-## 关于我
+## About Me
 
-我在探索 AI Agent 时代的个人工作方式：如何把上下文、工具、知识库和自动化组织成可验证、可复用的工作流。从 AI 演示文稿生成与可编辑化、短剧视频创作，到 iOS / macOS 应用开发，尝试让 Agent 参与从想法到交付的完整过程，也把实践沉淀为 Skills、开源工具与长期记忆。记录 AI Agent、群体智能与人机协作的前沿探索。在智能涌现的时代，向未来问路，与群智同行。
+I explore how we work in the age of AI agents: bringing context, tools, knowledge bases, and automation together into verifiable, reusable workflows. From AI presentation generation and editable slide conversion to short-form drama production and iOS / macOS apps, I involve agents throughout the journey from idea to delivery and turn practical experience into Skills, open-source tools, and long-term memory. I document explorations in AI agents, collective intelligence, and human–AI collaboration, looking toward the future and learning alongside a wider community.
 
-- 正在做 — AI PPT 生成与可编辑化、短剧内容生产、iOS / macOS 应用，以及贯穿其中的多 Agent 协作与交付自动化
-- 正在玩 — Codex、Claude Code、OpenCode、OpenClaw、Hermes Agent、SwiftUI、Harness Engineering、Loop Engineering
-- 正在沉淀 — 把工作流程封装成可复用的 Skills，用 Obsidian 与 Nowledge Mem 连接知识、项目经验和长期记忆
-- 想聊聊 — AI Agent 工程、内容生产自动化、个人知识系统，以及人如何与 Agent 一起把想法做成作品
+- Building — AI presentation generation and editable slide conversion, short-form drama production, iOS / macOS apps, and the multi-agent collaboration and delivery automation behind them
+- Exploring — Codex, Claude Code, OpenCode, OpenClaw, Hermes Agent, SwiftUI, Harness Engineering, and Loop Engineering
+- Learning — Packaging workflows into reusable Skills and using Obsidian and Nowledge Mem to connect knowledge, project experience, and long-term memory
+- Let’s talk — AI agent engineering, content production automation, personal knowledge systems, and turning ideas into real work together with agents
 
 ---
 
-## 代表项目
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⭐ [See_you_in_BUPT](https://github.com/ningzimu/See_you_in_BUPT)
-[![Stars](https://img.shields.io/github/stars/ningzimu/See_you_in_BUPT?style=social)](https://github.com/ningzimu/See_you_in_BUPT)
+### ⭐ [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)
+[![Stars](https://img.shields.io/github/stars/ningzimu/codex-ppt-skill?style=social)](https://github.com/ningzimu/codex-ppt-skill)
 
-北京邮电大学计算机考研信息汇总，沉淀了长期维护的院校、专业和备考资料。
+A presentation generation Skill for Codex that creates full-slide images with gpt-image-2 and assembles them into slide decks.
 
-`BUPT` `Knowledge Base` `Education`
+`Python` `Codex` `PPTX`
 
 </td>
 <td width="50%" valign="top">
 
-### ⭐ [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)
-[![Stars](https://img.shields.io/github/stars/ningzimu/codex-ppt-skill?style=social)](https://github.com/ningzimu/codex-ppt-skill)
+### ⭐ [image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill)
+[![Stars](https://img.shields.io/github/stars/ningzimu/image-to-editable-ppt-skill?style=social)](https://github.com/ningzimu/image-to-editable-ppt-skill)
 
-面向 Codex 的 PPT 生成 Skill，用 gpt-image-2 生成整页图片并组装成演示文稿。
+A Codex Skill that converts slide images, PDFs, and image-based PPTX files into editable PowerPoint decks.
 
-`Python` `Codex` `PPTX`
+`Python` `Codex Skill` `PPTX`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⭐ [awesome-ai-ppt](https://github.com/ningzimu/awesome-ai-ppt)
+[![Stars](https://img.shields.io/github/stars/ningzimu/awesome-ai-ppt?style=social)](https://github.com/ningzimu/awesome-ai-ppt)
+
+A curated list of AI PPT, PowerPoint automation, PPTX editing, and slide workflow tools.
+
+`Python` `Awesome List` `Presentation`
+
+</td>
+<td width="50%" valign="top">
+
+### ⭐ [awesome-skills](https://github.com/ningzimu/awesome-skills)
+[![Stars](https://img.shields.io/github/stars/ningzimu/awesome-skills?style=social)](https://github.com/ningzimu/awesome-skills)
+
+A curated collection of useful AI agent Skills and workflows, organized into a ready-to-use list.
+
+`Awesome List` `Agent Skills` `Workflows`
 
 </td>
 </tr>
@@ -54,41 +76,19 @@
 ### ⭐ [codex-celebrate](https://github.com/ningzimu/codex-celebrate)
 [![Stars](https://img.shields.io/github/stars/ningzimu/codex-celebrate?style=social)](https://github.com/ningzimu/codex-celebrate)
 
-原生 macOS 彩带与音效交互，在 Codex、Claude Code、OpenCode 完成响应时触发庆祝效果。
+Native macOS confetti and sound effects that celebrate when Codex, Claude Code, or OpenCode finishes responding.
 
 `Swift` `macOS` `Coding Agent` `Developer Tools`
 
 </td>
 <td width="50%" valign="top">
 
-### ⭐ [awesome-ai-ppt](https://github.com/ningzimu/awesome-ai-ppt)
-[![Stars](https://img.shields.io/github/stars/ningzimu/awesome-ai-ppt?style=social)](https://github.com/ningzimu/awesome-ai-ppt)
+### ⭐ [awesome-projects](https://github.com/ningzimu/awesome-projects)
+[![Stars](https://img.shields.io/github/stars/ningzimu/awesome-projects?style=social)](https://github.com/ningzimu/awesome-projects)
 
-AI PPT、PowerPoint 自动化、PPTX 编辑和幻灯片工作流工具精选清单。
+A curated collection of exceptional open-source projects, tools, apps, and resources.
 
-`Python` `Awesome List` `Presentation`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⭐ [image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill)
-[![Stars](https://img.shields.io/github/stars/ningzimu/image-to-editable-ppt-skill?style=social)](https://github.com/ningzimu/image-to-editable-ppt-skill)
-
-面向 Codex 的可编辑化 PPT Skill，把幻灯片图片、PDF 和图片版 PPTX 转成可编辑 PowerPoint。
-
-`Python` `Codex Skill` `PPTX`
-
-</td>
-<td width="50%" valign="top">
-
-### ⭐ [awesome-skills](https://github.com/ningzimu/awesome-skills)
-[![Stars](https://img.shields.io/github/stars/ningzimu/awesome-skills?style=social)](https://github.com/ningzimu/awesome-skills)
-
-精选实用的 AI Agent Skills 与工作流，持续整理为可直接使用的清单。
-
-`Awesome List` `Agent Skills` `Workflows`
+`Awesome List` `Open Source` `Resources`
 
 </td>
 </tr>
@@ -96,7 +96,7 @@ AI PPT、PowerPoint 自动化、PPTX 编辑和幻灯片工作流工具精选清�
 
 ---
 
-## 技术与工具
+## Tech & Tools
 
 <div align="center">
 
@@ -119,17 +119,17 @@ AI PPT、PowerPoint 自动化、PPTX 编辑和幻灯片工作流工具精选清�
 
 ---
 
-## GitHub 数据
+## GitHub Stats
 
 <div align="center">
 
 <table width="100%">
 <tr>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats-iota-rosy-29.vercel.app/api?username=ningzimu&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=percentile&locale=cn&title_color=58A6FF&text_color=334155&icon_color=8B5CF6" />
+<img width="100%" src="https://github-readme-stats-iota-rosy-29.vercel.app/api?username=ningzimu&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=percentile&locale=en&title_color=58A6FF&text_color=334155&icon_color=8B5CF6" />
 </td>
 <td width="50%">
-<img width="100%" src="https://ningzimu-streak-stats.vercel.app?user=ningzimu&theme=transparent&hide_border=true&locale=zh_Hans&ring=58A6FF&fire=8B5CF6&currStreakLabel=0F766E&sideLabels=334155&dates=64748B&currStreakNum=8B5CF6&sideNums=58A6FF" />
+<img width="100%" src="https://ningzimu-streak-stats.vercel.app?user=ningzimu&theme=transparent&hide_border=true&locale=en&ring=58A6FF&fire=8B5CF6&currStreakLabel=0F766E&sideLabels=334155&dates=64748B&currStreakNum=8B5CF6&sideNums=58A6FF" />
 </td>
 </tr>
 </table>
@@ -137,7 +137,7 @@ AI PPT、PowerPoint 自动化、PPTX 编辑和幻灯片工作流工具精选清�
 <table width="100%">
 <tr>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats-iota-rosy-29.vercel.app/api/top-langs/?username=ningzimu&layout=compact&theme=transparent&hide_border=true&langs_count=8&card_width=420&locale=cn&title_color=58A6FF&text_color=334155" />
+<img width="100%" src="https://github-readme-stats-iota-rosy-29.vercel.app/api/top-langs/?username=ningzimu&layout=compact&theme=transparent&hide_border=true&langs_count=8&card_width=420&locale=en&title_color=58A6FF&text_color=334155" />
 </td>
 <td width="50%">
 <img width="100%" src="https://ningzimu-profile-trophy.vercel.app/?username=ningzimu&theme=flat&no-frame=true&column=4&row=2&margin-w=8" />
@@ -157,11 +157,11 @@ AI PPT、PowerPoint 自动化、PPTX 编辑和幻灯片工作流工具精选清�
 
 <div align="center">
 
-### 如果你也在探索 AI Agent、个人知识系统和开发者自动化，欢迎交流
+### Exploring AI agents, personal knowledge systems, or developer automation? Let’s connect.
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ningzimu)
-![微信公众号：群智问津](https://img.shields.io/static/v1?style=for-the-badge&label=%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7&message=%E7%BE%A4%E6%99%BA%E9%97%AE%E6%B4%A5&color=07C160&logo=wechat&logoColor=white)
-[![小红书](https://img.shields.io/badge/-%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/608d5243000000000101d122)
+![WeChat Official Account: Qunzhi Wenjin](https://img.shields.io/static/v1?style=for-the-badge&label=WeChat&message=Qunzhi%20Wenjin&color=07C160&logo=wechat&logoColor=white)
+[![Xiaohongshu](https://img.shields.io/badge/-Xiaohongshu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/608d5243000000000101d122)
 [![Email](https://img.shields.io/badge/-Email-334155?style=for-the-badge)](mailto:619883006@qq.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)
